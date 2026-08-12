@@ -90,4 +90,4 @@ https://kse-sociological-center.github.io/fedorov-protests-survey/
 | [`data/protests-survey-2026.csv`](data/protests-survey-2026.csv) | Те саме у форматі CSV (UTF-8) |
 
 ## Як цитувати дані
-Hatsko, V., Moskotina, R., Karakai, D.& Andreiev, D. (2026). Survey of participants in the July 2026 protests in Ukraine [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21902377
+Hatsko, V., Moskotina, R., Karakai, D., Andreiev, D.& Antonets, K. (2026). Survey of participants in the July 2026 protests in Ukraine [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21902377
