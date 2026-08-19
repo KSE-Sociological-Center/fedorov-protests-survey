@@ -85,8 +85,15 @@ https://kse-sociological-center.github.io/fedorov-protests-survey/
 
 | Файл | Опис |
 |---|---|
-| [`data/protests-survey-2026.xlsx`](data/protests-survey-2026.xlsx) | Відповіді, 508 рядків × 49 колонок |
+| [`data/protests-survey-2026.xlsx`](data/protests-survey-2026.xlsx) | Відповіді, 508 рядків × 72 колонки |
 | [`data/protests-survey-2026.csv`](data/protests-survey-2026.csv) | Те саме у форматі CSV (UTF-8) |
+
+Відкрите питання про мету участі закодовано у 23 категорії. Вони стоять
+у масиві одразу після змінної «Як би Ви сформулювали мету своєї участі в
+цих зібраннях?» і мають значення «Так» або «Ні». Одна відповідь може
+належати до кількох категорій одночасно (у середньому 3,0). Закодовано
+486 відповідей — усі, крім 22, де питання лишилось без відповіді; у них
+категорії порожні.
 
 ## Як цитувати дані
 Hatsko, V., Moskotina, R., Karakai, D., Andreiev, D.& Antonets, K. (2026). Survey of participants in the July 2026 protests in Ukraine [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21902377
